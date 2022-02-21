@@ -1,5 +1,7 @@
 # WebClient Rick and Morty
 
+![](src/main/IMG/5164749.jpg)
+
 ### PROJECT DEV REQUIREMENTS
 
 - [JAVA 11]
